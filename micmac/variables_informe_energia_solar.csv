@@ -1,0 +1,9 @@
+N°;Long label;Short label;Description;Theme
+1;Acceso a energía eléctrica;V1T1;Disponibilidad de energía eléctrica para la comunidad.;Tecnología
+2;Capacitación de la comunidad;V2TR1;Formación de los habitantes en el uso y mantenimiento de sistemas solares.;Territorio
+3;Inversión en infraestructura;V3G1;Recursos destinados a la construcción de instalaciones solares.;Gestión
+4;Uso de energías renovables;V4G2;Adopción de tecnologías de energía renovable.;Gestión
+5;Desarrollo económico local;V5TR2;Impulso de la economía local a través de proyectos solares.;Territorio
+6;Alianzas con organizaciones;V6T2;Colaboración con ONGs y entidades para el desarrollo solar.;Tecnología
+7;Mantenimiento de sistemas;V7G3;Requerimientos para el cuidado y reparación de sistemas solares.;Gestión
+8;Condiciones climáticas;V8T3;Impacto del clima en la eficiencia de los sistemas solares.;Tecnología
